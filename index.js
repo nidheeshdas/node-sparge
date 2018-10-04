@@ -1,4 +1,3 @@
-#!/Users/nidheeshdas/.nvm/versions/node/v8.11.1/bin/node
 
 const express = require("express");
 const serveStatic = require("serve-static");
