@@ -46,3 +46,7 @@ app.use((req, res, next) => {
 
 app.listen(port);
 
+console.log("SERVE_PATH=" + serve_path);
+console.log("PORT=" + port);
+console.log("SCSS_PATH=" + scss_path);
+console.log("Started.");
