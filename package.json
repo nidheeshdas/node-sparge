@@ -1,0 +1,22 @@
+{
+  "name": "node-sparge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "browser": false,
+  "repository": "github.com/nidheeshdas/node-sparge",
+  "author": "nidheeshdas",
+  "license": "WTFL",
+  "private": true,
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-sass": "^4.9.3",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.1"
+  }
+}
